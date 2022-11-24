@@ -2672,7 +2672,7 @@ input, select, textarea {
 
 			.features article .image img {
 				display: block;
-				width: 100%;
+				width: 70%;
 			}
 
 		.features article .inner {
@@ -3315,11 +3315,15 @@ input, select, textarea {
 
 	}
 
-#four span{
+#four span, .project span{
 	display:block;
 	font-weight: 700;
 }
 
 .no-margin{
 	margin: 0;
+}
+
+.features article a{
+	text-decoration: underline;
 }
